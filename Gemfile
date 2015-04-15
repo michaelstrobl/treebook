@@ -6,7 +6,8 @@ gem 'rails', '4.2.1'
 # Use sqlite3 as the database for Active Record
 
 gem 'devise' 
-
+gem 'simple_form'
+gem 'protected_attributes'
 gem 'sqlite3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
